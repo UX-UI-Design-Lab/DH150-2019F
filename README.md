@@ -16,20 +16,19 @@ Upon completion of this course students will be able to:
 
 ## COURSE CALDENDAR
 #### Week |  Topics |  Activity / Assignments (Due)
-----------|---------|----------------------------
+----------|---------|---------
 1 | Course overview: UX/UI | Assignment01: Start your project & Heuristic evaluation (10/8)
---|-------------------------|--------------------
   | : UX job requirement analysis |
   |: Human Centered Design Process | 
   |: Project overview |
---|-------------------|--------------------------
+
 (readings/references) 
 Design of Everyday Things Ch.1 (D. Norman)
 10 Usability Heuristics (J. Nielsen)
 User Experience Careers (S. Farrell & J. Nielsen)
 (tool)
 Web publication (github.com)
------------------------------------------------
+
 
 2
 10/8
