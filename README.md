@@ -14,8 +14,9 @@ Upon completion of this course students will be able to:
 - Document the design decision-making process with evidence
 - Present the creative user experience design
 
-## CALDENDAR
+## COURSE CALDENDAR
 
+-----------------------------------------------
 Week |  Topics |  Activity / Assignments (Due)
 -----------------------------------------------
 1 | Course overview: UX/UI | Assignment01: Start your project & Heuristic evaluation (10/8)
