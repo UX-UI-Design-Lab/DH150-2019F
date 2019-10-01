@@ -18,16 +18,16 @@ Upon completion of this course students will be able to:
 Week    |       Topics      |  Activity / Assignments (Due)
 --------|-------------------|------------------------------
 1       | Course overview   | Assignment01: Start your project & Heuristic evaluation (10/8)
-        | UX job  analysis  |
+s       | UX job  analysis  |
         | HCD Process       | 
         | Project overview  |
         |                   |
-        | [x] Design of Everyday Things Ch.1 (D. Norman) |
+        | -[x] Design of Everyday Things Ch.1 (D. Norman) |
         
 (readings/references) 
-Design of Everyday Things Ch.1 (D. Norman)
-10 Usability Heuristics (J. Nielsen)
-User Experience Careers (S. Farrell & J. Nielsen)
+ -[] Design of Everyday Things Ch.1 (D. Norman)
+ -[]10 Usability Heuristics (J. Nielsen)
+ -[] User Experience Careers (S. Farrell & J. Nielsen)
 (tool)
 Web publication (github.com)
 
