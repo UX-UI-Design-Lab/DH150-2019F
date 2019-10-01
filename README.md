@@ -30,6 +30,7 @@ Week    |       Topics      |   Activity+References      |   Assignments (Due)
 10      | [Review]() | [FinalProjectEvaluation]() | [P05:Peer Review]()
 
 
+---
 ## Final Project
 ### Goal:
 Design an interactive prototype that demonstrates your ideas about how to strengthen user experience in health/clinic context. 
@@ -40,7 +41,7 @@ Design an interactive prototype that demonstrates your ideas about how to streng
 - Strongly recommend to choose a self-related design problem. It is extremely helpful to have a close one in the context of design.
 
 ### Reference:
-[The Field Guide to Human-Centered Design By IDEO.org] (http://d1r3w4d5z5a88i.cloudfront.net/assets/guide/Field%20Guide%20to%20Human-Centered%20Design_IDEOorg_English-ee47a1ed4b91f3252115b83152828d7e.pdf)
+[The Field Guide to Human-Centered Design By IDEO.org](http://d1r3w4d5z5a88i.cloudfront.net/assets/guide/Field%20Guide%20to%20Human-Centered%20Design_IDEOorg_English-ee47a1ed4b91f3252115b83152828d7e.pdf)
 
 
 
