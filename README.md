@@ -18,7 +18,7 @@ Upon completion of this course students will be able to:
 
 Week    |       Topics      |   Activity+References      |   Assignments (Due)
 --------|-------------------|--------------------------|------------------------
-1       | [Course overview](https://drive.google.com/open?id=1JPVj-MKGr7sYPIGGus9VdIoM7IxXPeY3) | [Introduce yourself](https://forms.gle/97rDHQ8kqK1aygEo8) + [LectureNote01](wiki/LectureNote01)| [A01: Heuristic evaluation(10/8)](https://drive.google.com/open?id=1oxr_PpL0Jm50jVEzOwG3e6Afw20weUb3)
+1       | [Course overview](https://drive.google.com/open?id=1JPVj-MKGr7sYPIGGus9VdIoM7IxXPeY3) | [Introduce yourself](https://forms.gle/97rDHQ8kqK1aygEo8) + [LectureNote01](https://github.com/UX-UI-Design-Lab/DH150-2019F/wiki/LectureNote01)| [A01: Heuristic evaluation(10/8)](https://drive.google.com/open?id=1oxr_PpL0Jm50jVEzOwG3e6Afw20weUb3)
 2       | [Usability testing](https://)  | [LectureNote02]() | [A02:Pilot test](https://)
 3       | [Analysis](https://)  | [LectureNote03]() | [A03:UT Report]()
 4       | [Interface Design]()  | [LectureNote04]() | [A04:Static Comp]()
