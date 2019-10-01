@@ -18,12 +18,9 @@ Upon completion of this course students will be able to:
 Week    |       Topics      |  Activity / Assignments (Due)
 --------|-------------------|------------------------------
 1       | Course overview: UX/UI | Assignment01: Start your project & Heuristic evaluation (10/8)
-
-
-
-  | : UX job requirement analysis |
-  |: Human Centered Design Process | 
-  |: Project overview |
+        | UX job requirement analysis |
+        | Human Centered Design Process | 
+        | Project overview |
 
 (readings/references) 
 Design of Everyday Things Ch.1 (D. Norman)
