@@ -15,8 +15,9 @@ Upon completion of this course students will be able to:
 - Present the creative user experience design
 
 ## COURSE CALDENDAR
-Week    |       Topics      |       Activity+Readings      |      Assignments (Due)
---------|-------------------|------------------------------|------------------------------
+
+Week    |       Topics      |   Activity+Readings      |   Assignments (Due)
+--------|-------------------|--------------------------|------------------------
 1       | [Course overview](https://drive.google.com/open?id=1JPVj-MKGr7sYPIGGus9VdIoM7IxXPeY3) | Design of Everyday Things Ch.1 (D. Norman)                     | A01: Heuristic evaluation(10/8)
 2       | [Usability testing(UT)](https://)  | [Handbook of Usability testing (D. Chisnell & J. Rubin)] | [A02: Pilot test(10/15)] (https://)
 3       | [Quantitative analysis](https://)  | []() | [A03:UT Report(10/22]()
