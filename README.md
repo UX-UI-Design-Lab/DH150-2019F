@@ -17,12 +17,13 @@ Upon completion of this course students will be able to:
 ## COURSE CALDENDAR
 Week    |       Topics      |  Activity / Assignments (Due)
 --------|-------------------|------------------------------
-1       | Course overview: UX/UI UX job requirement analysis| Assignment01: Start your project & Heuristic evaluation (10/8)
---------|-------------------|------------------------------
-        | UX job requirement analysis |
-        | Human Centered Design Process | 
-        | Project overview |
-
+1       | Course overview   | Assignment01: Start your project & Heuristic evaluation (10/8)
+        | UX job  analysis  |
+        | HCD Process       | 
+        | Project overview  |
+        |                   |
+        | [x] Design of Everyday Things Ch.1 (D. Norman) |
+        
 (readings/references) 
 Design of Everyday Things Ch.1 (D. Norman)
 10 Usability Heuristics (J. Nielsen)
