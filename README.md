@@ -19,7 +19,7 @@ Upon completion of this course students will be able to:
 Week    |       Topics      |   Activity+Readings      |   Assignments (Due)
 --------|-------------------|--------------------------|------------------------
 1       | [Course overview](https://drive.google.com/open?id=1JPVj-MKGr7sYPIGGus9VdIoM7IxXPeY3) | - [Activity01:introduce yourself](https://forms.gle/97rDHQ8kqK1aygEo8) -+- [Demo](https://drive.google.com/open?id=1I9Mzk3bpuHo421-9xnaALzuQyDW5tDcD) | [A01: Heuristic evaluation(10/8)](https://drive.google.com/open?id=1oxr_PpL0Jm50jVEzOwG3e6Afw20weUb3)
-2       | [Usability testing](https://)  | [Handbook of Usability testing] | [A02:Pilot test](https://)
+2       | [Usability testing](https://)  | []() | [A02:Pilot test](https://)
 3       | [Analysis](https://)  | []() | [A03:UT Report]()
 4       | [Interface Design]()  | []() | [A04:Static Comp]()
 5       | [User Study]() | []() | [A05:Contextual Inquiry]()
