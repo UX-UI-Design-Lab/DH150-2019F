@@ -15,9 +15,12 @@ Upon completion of this course students will be able to:
 - Present the creative user experience design
 
 ## COURSE CALDENDAR
-#### Week |  Topics |  Activity / Assignments (Due)
-----------|---------|---------
-1 | Course overview: UX/UI | Assignment01: Start your project & Heuristic evaluation (10/8)
+Week    |       Topics      |  Activity / Assignments (Due)
+--------|-------------------|------------------------------
+1       | Course overview: UX/UI | Assignment01: Start your project & Heuristic evaluation (10/8)
+
+
+
   | : UX job requirement analysis |
   |: Human Centered Design Process | 
   |: Project overview |
