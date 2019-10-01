@@ -17,9 +17,7 @@ Upon completion of this course students will be able to:
 ## COURSE CALDENDAR
 
 Week    |       Topics      |   Activity+Readings      |   Assignments (Due)
-
 --------|-------------------|--------------------------|------------------------
-
 1       | [Course overview](https://drive.google.com/open?id=1JPVj-MKGr7sYPIGGus9VdIoM7IxXPeY3) | Design of Everyday Things Ch.1 (D. Norman)                     | A01: Heuristic evaluation(10/8)
 2       | [Usability testing](https://)  | [Handbook of Usability testing]() | [A02:Pilot test(10/15)] (https://)
 3       | [Analysis](https://)  | []() | [A03:UT Report(10/22]()
