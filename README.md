@@ -17,7 +17,8 @@ Upon completion of this course students will be able to:
 ## COURSE CALDENDAR
 Week    |       Topics      |  Activity / Assignments (Due)
 --------|-------------------|------------------------------
-1       | Course overview: UX/UI | Assignment01: Start your project & Heuristic evaluation (10/8)
+1       | Course overview: UX/UI UX job requirement analysis| Assignment01: Start your project & Heuristic evaluation (10/8)
+--------|-------------------|------------------------------
         | UX job requirement analysis |
         | Human Centered Design Process | 
         | Project overview |
