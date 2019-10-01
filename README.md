@@ -15,9 +15,9 @@ Upon completion of this course students will be able to:
 - Present the creative user experience design
 
 ## COURSE CALDENDAR
-Week    |       Topics      |  Activity / Assignments (Due)
---------|-------------------|------------------------------
-1       | Course overview   | Assignment01: Start your project & Heuristic evaluation (10/8)
+Week    |       Topics      |       Activity+Readings      |      Assignments (Due)
+--------|-------------------|------------------------------|------------------------------
+1       | Course overview   | - [ ] Design of Everyday Things Ch.1 (D. Norman)                     | A01: Heuristic evaluation (10/8)
 s       | UX job  analysis  |
         | HCD Process       | 
         | Project overview  |
