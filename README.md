@@ -17,7 +17,7 @@ Upon completion of this course students will be able to:
 ## COURSE CALDENDAR
 Week    |       Topics      |       Activity+Readings      |      Assignments (Due)
 --------|-------------------|------------------------------|------------------------------
-1       | Course overview   | - [ ] Design of Everyday Things Ch.1 (D. Norman)                     | A01: Heuristic evaluation (10/8)
+1       | [Course overview](https://drive.google.com/open?id=1JPVj-MKGr7sYPIGGus9VdIoM7IxXPeY3) | Design of Everyday Things Ch.1 (D. Norman)                     | A01: Heuristic evaluation (10/8)
 s       | UX job  analysis  |
         | HCD Process       | 
         | Project overview  |
