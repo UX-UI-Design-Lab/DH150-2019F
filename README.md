@@ -17,17 +17,19 @@ Upon completion of this course students will be able to:
 ## COURSE CALDENDAR
 
 Week    |       Topics      |   Activity+Readings      |   Assignments (Due)
+
 --------|-------------------|--------------------------|------------------------
+
 1       | [Course overview](https://drive.google.com/open?id=1JPVj-MKGr7sYPIGGus9VdIoM7IxXPeY3) | Design of Everyday Things Ch.1 (D. Norman)                     | A01: Heuristic evaluation(10/8)
-2       | [Usability testing(UT)](https://)  | [Handbook of Usability testing (D. Chisnell & J. Rubin)] | [A02: Pilot test(10/15)] (https://)
-3       | [Quantitative analysis](https://)  | []() | [A03:UT Report(10/22]()
-4       | [Interface Design]()  | []() | [A04:]()
-5       | [Qualitative User Study]() | []() | [A05:]()
-6       | [Qualitative User Study]() | []() | [P01:]()
-7       | [Qualitative User Study]() | []() | [P02:]()
-8       | [Qualitative User Study]() | []() | [P03:]()
-9       | [Qualitative User Study]() | []() | [P04:]()
-10      | [Qualitative User Study]() | []() | [P05:]()
+2       | [Usability testing](https://)  | [Handbook of Usability testing]() | [A02:Pilot test(10/15)] (https://)
+3       | [Analysis](https://)  | []() | [A03:UT Report(10/22]()
+4       | [Interface Design]()  | []() | [A04:Static Comp]()
+5       | [User Study]() | []() | [A05:Contextual Inquiry]()
+6       | [Interaction Design]() | []() | [P01:Low Fidelity Prototype]()
+7       | [Prototyping]() | []() | [P02:High Fidelity Prototype]()
+8       | [Iterative Process]() | []() | [P03:Cognitive Walkthrough]()
+9       | [UX Portfolio]() | []() | [P04:Pitch]()
+10      | [Review]() | []() | [P05:Peer Review]()
 
 
 
