@@ -16,7 +16,7 @@ Upon completion of this course students will be able to:
 
 ## COURSE CALDENDAR
 
-Week    |       Topics      |   Activity+References      |   Assignments (Due)
+Week    |       Topics      |   Activity+References      |   Assignments 
 --------|-------------------|--------------------------|------------------------
 2       | [Course overview](https://drive.google.com/open?id=1JPVj-MKGr7sYPIGGus9VdIoM7IxXPeY3) | [Introduce yourself](https://forms.gle/97rDHQ8kqK1aygEo8) + [LectureNote01](https://github.com/UX-UI-Design-Lab/DH150-2019F/wiki/LectureNote01)| [A01: Heuristic evaluation](https://drive.google.com/open?id=1oxr_PpL0Jm50jVEzOwG3e6Afw20weUb3)
 3       | [Usability testing](https://)  | [LectureNote02]() | [A02:Pilot test](https://)
@@ -29,7 +29,7 @@ Week    |       Topics      |   Activity+References      |   Assignments (Due)
 10       | [UX Portfolio]() | [LectureNote09]() | [P04:Pitch]()
 11      | [Review]() | [FinalProjectEvaluation]() | [P05:Peer Review]()
 
-
+* The assignment due is the following week by the beginning of the classtime (Tue 3pm)
 ---
 ## Final Project
 ### Goal:
