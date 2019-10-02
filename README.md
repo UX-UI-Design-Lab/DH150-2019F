@@ -29,8 +29,10 @@ Week    |       Topics      |   Activity+References      |   Assignments
 10       | [UX Portfolio]() | [LectureNote09]() | [P04:Pitch]()
 11      | [Review]() | [FinalProjectEvaluation]() | [P05:Peer Review]()
 
-* The assignment due is the following week by the beginning of the classtime (Tue 3pm)
+#### The assignment due is the following week by the beginning of the classtime (Tue 3pm)
+
 ---
+
 ## Final Project
 ### Goal:
 Design an interactive prototype that demonstrates your ideas about how to strengthen user experience in health/clinic context. 
