@@ -20,7 +20,7 @@ Week    |       Topics      |   Activity+References      |   Assignments
 --------|-------------------|--------------------------|------------------------
 2       | [Course overview](https://drive.google.com/open?id=1JPVj-MKGr7sYPIGGus9VdIoM7IxXPeY3) | [Introduce yourself](https://forms.gle/97rDHQ8kqK1aygEo8) + [LectureNote01](https://github.com/UX-UI-Design-Lab/DH150-2019F/wiki/LectureNote01)| [A01: Heuristic evaluation](https://drive.google.com/open?id=1oxr_PpL0Jm50jVEzOwG3e6Afw20weUb3)
 3       | [Usability testing](https://docs.google.com/presentation/d/1rzDBZPBcBIE8DxgI2FoMAPYTHSSJm7mfXalz5myL--g/edit?usp=sharing)  | [LectureNote02](https://github.com/UX-UI-Design-Lab/DH150-2019F/wiki/LectureNote02) | [A02:Pilot test](https://drive.google.com/open?id=1eRsb4nMkKsG5oFfpSeJSskZLRldLUzOKnT1sWeyzrg4)
-4       | [Analysis](https://drive.google.com/open?id=1FMLgyzdr_VtYcuiiIAd6GQwp14QJq2hqoeGZMyXPQOE)  | [LectureNote03]() | [A03:UT Analysis](https://drive.google.com/open?id=1kP_AxMkvy8cG5-xHeuO3RkgBwHgtTfRgz151SyNcsig)
+4       | [Analysis](https://drive.google.com/open?id=1FMLgyzdr_VtYcuiiIAd6GQwp14QJq2hqoeGZMyXPQOE)  | [LectureNote03](https://github.com/UX-UI-Design-Lab/DH150-2019F/wiki/LectureNote04) | [A03:UT Analysis](https://drive.google.com/open?id=1kP_AxMkvy8cG5-xHeuO3RkgBwHgtTfRgz151SyNcsig)
 5       | [Interface Design]()  | [LectureNote04]() | [A04:Static Comp]()
 6       | [User Study]() | [LectureNote05]() | [A05:Contextual Inquiry]() 
 7       | [Interaction Design]() | [LectureNote06]() | [P01:Low Fidelity Prototype]()
