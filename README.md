@@ -24,13 +24,12 @@ Week    |       Topics      |   Activity+References      |   Assignments
 5       | [Interface Design](https://docs.google.com/presentation/d/10WjqS62ThHPwq26p9G6gBpTWhCdMBXJ_fNl_32UZtgI/edit?usp=sharing)  | [LectureNote04](https://docs.google.com/document/d/1V3mjR9ppGXzCN2ZBXpjhXIMdvC8o-yj7pqLG0AdRw9I/edit?usp=sharing) | [A04: Color Scheme](https://docs.google.com/document/d/1G_2kRcKQ5JU2RK2QCU_5v_VXfn6atVeG2HywaO8bDEU/edit?usp=sharing)
 6       | [User Study](https://docs.google.com/presentation/d/1FYQf5P2qbtFi1OAA_ruUAFQdAxqdSTWXJOTQWKnQxE4/edit?usp=sharing) | [LectureNote05](https://github.com/UX-UI-Design-Lab/DH150-2019F/wiki/LectureNote05) | [A05: Contextual Inquiry](https://docs.google.com/document/d/1xJ5ZDx8EekBjKEIUuORVDp2H21b-DSu9fSQf6tBFKwM/edit?usp=sharing) 
 7       | [Interaction Design](https://docs.google.com/presentation/d/14P7um0_VNF3x7QHCkePEW3wE1K3bnDhT3mAlOoXzmaM/edit?usp=sharing) | [LectureNote06](https://github.com/UX-UI-Design-Lab/DH150-2019F/wiki/LectureNote06) | [P01:Persona+Scenario](https://docs.google.com/document/d/1E6C7vnNjxS85XeHNsrg0c1LOKXAuDgF53jQJV6cceWc/edit?usp=sharing) + [Low Fidelity Prototype](https://docs.google.com/document/d/1yywiX303FbT4SA3UDE9Yg7Q1ehYvaMXJOYLF4cqscMs/edit?usp=sharing)
-8       | [Prototyping]() | [LectureNote07]() | [P02: High Fidelity Prototype]()
-9       | [Iterative Process]() | [LectureNote08]() | [P03: Cognitive Walkthrough]()
-10       | [UX Portfolio]() | [LectureNote09]() | [P04: Pitch]()
+8       | [Prototyping](https://docs.google.com/presentation/d/1cxAl_FSrRPVeIfEy_KeVsyDYYcJfT9_Xmw42ISrCcE0/edit?usp=sharing) | [LectureNote07]() | [P02: High Fidelity Prototype](https://docs.google.com/document/d/1kKhGO03T2K3dtdqIlQcBQGabVLqFQR_UXNyezE3apRk/edit?usp=sharing)
+9       | [UX Portfolio]() | [LectureNote08]() | [P03: Cognitive Walkthrough]()
+10       | [Iterative Process]() | [LectureNote09]() | [P04: Pitch]()
 11      | [Review]() | [FinalProjectEvaluation]() | [P05: Peer Review]()
 
-###### 
-The assignment due is by the beginning of the next classtime (Tue 3pm)
+###### The assignment due is by the beginning of the next classtime (Tue 3pm)
 
 ---
 
