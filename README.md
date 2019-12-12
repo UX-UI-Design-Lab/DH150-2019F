@@ -1,5 +1,6 @@
 # DH150-2019F
 Advanced Topics in Digital Humanities DH150, UCLA 2019Fall
+
 [Syllabus](https://docs.google.com/document/d/146rSlQ3fq5C_vG7J0f2v2zrn8s3DU9Bv-3zQ1h26BAk/edit?usp=sharing)
 
 ## COURSE DESCRIPTION:
