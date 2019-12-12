@@ -1,5 +1,6 @@
 # DH150-2019F
 Advanced Topics in Digital Humanities DH150, UCLA 2019Fall
+[Syllabus](https://docs.google.com/document/d/146rSlQ3fq5C_vG7J0f2v2zrn8s3DU9Bv-3zQ1h26BAk/edit?usp=sharing)
 
 ## COURSE DESCRIPTION:
 This course provides an introduction to the fields of UX research and design. It covers qualitative and quantitative user/usability research methods, including ethnographic field research, persona-scenario design, information architecture, prototyping, and usability testing. Students will learn how to design and communicate user experience design in the human-centered process.
@@ -27,7 +28,7 @@ Week    |       Topics      |   Activity+References      |   Assignments
 8       | [Prototyping](https://docs.google.com/presentation/d/1cxAl_FSrRPVeIfEy_KeVsyDYYcJfT9_Xmw42ISrCcE0/edit?usp=sharing) | [LectureNote07](https://github.com/UX-UI-Design-Lab/DH150-2019F/wiki/LectureNote07) | [P02: High Fidelity Prototype](https://docs.google.com/document/d/1kKhGO03T2K3dtdqIlQcBQGabVLqFQR_UXNyezE3apRk/edit?usp=sharing)
 9       | [UX Portfolio](https://docs.google.com/presentation/d/1W19_UAi0Kk9fyRmTUAEQOUKJeFBLGntZGPRTMwiY4XQ/edit?usp=sharing) | [LectureNote08](https://github.com/UX-UI-Design-Lab/DH150-2019F/wiki/LectureNote08) | [P03: Web Documentation](https://docs.google.com/document/d/1gOFZV8JOQnKX2zbcLSC6DpfH7Bz9Ct0Xz8NDuaA3X6Y/edit)
 10      | [Iterative Process]() | Troubleshootings | [P04: Pitch]()
-11      | [Review]() | [FinalProjectEvaluation]() | [P05: Peer Review]()
+11      | Review | [FinalProjectEvaluation](https://docs.google.com/document/d/1Iv31e0c-QJdSuGia34YK_go7iD43TVS9HsJ0oYhhnKw/edit?usp=sharing) | [P05: Peer Review](https://forms.gle/ZgHGaoUq63Pof1tb6)
 
 ##### The assignment due is by the beginning of the next classtime (Tue 3pm)
 
